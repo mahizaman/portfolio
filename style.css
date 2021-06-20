@@ -1,0 +1,25 @@
+.gallery-bg {
+    background: linear-gradient(45deg, red, blue) fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 20px;
+    width: auto;
+    height: 100%;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  .gallery {
+    padding: 80px 0;
+    border-radius: 10px;
+  }
+  .gallery img {
+    padding: 15px;
+    width: 100%;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+  }
+  #gallery-modal .modal-img {
+    width: 100%;
+  }
