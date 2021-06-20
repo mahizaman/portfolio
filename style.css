@@ -1,3 +1,22 @@
+.from-css {
+    background-image: url(/undraw_contact_us_15o2.svg);
+    background-color: rgba(1, 44, 38, 0.678);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px; 
+    -o-border-radius: 5px;
+    margin-top:  20px;
+  } 
+
+
+
+
+
+
 .gallery-bg {
     background: linear-gradient(45deg, red, blue) fixed;
     background-repeat: no-repeat;
